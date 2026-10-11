@@ -348,6 +348,7 @@ export default function Home() {
             </a>
             <a
               href={links.cv}
+              download="Emmanuel-Mpamugo-Frontend-Engineer-CV.pdf"
               className="rounded-full border border-line px-5 py-2.5 text-sm font-medium hover:border-fg"
             >
               Download CV
