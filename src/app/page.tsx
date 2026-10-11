@@ -318,7 +318,7 @@ export default function Home() {
       <section className="grid items-center gap-10 py-12 sm:py-20 md:grid-cols-[1fr_300px]">
         <div>
           <p className="rise font-mono text-sm text-accent">
-            Frontend & Mobile Engineer · Lagos, Nigeria · Open to remote
+            Frontend & Mobile Engineer · Lagos, Nigeria
           </p>
           <h1
             style={{ animationDelay: "0.1s" }}
