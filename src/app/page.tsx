@@ -321,8 +321,8 @@ export default function Home() {
           Let&apos;s work together.
         </h2>
         <p className="mt-4 max-w-xl text-muted">
-          I&apos;m looking for mid-level frontend or mobile roles, fully remote.
-          The fastest way to reach me is email.
+          I&apos;m open to remote frontend and mobile roles. The fastest way to
+          reach me is email.
         </p>
         <a
           href={links.email}
